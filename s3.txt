@@ -1,0 +1,2 @@
+other sample3
+editing after stash
