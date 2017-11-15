@@ -2,5 +2,4 @@ other sample3
 editing after stash
 nexttrails for commit
 
-testing revert now
-final revert one
+testing revert now 
