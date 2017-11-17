@@ -3,3 +3,6 @@ editing after stash
 nexttrails for commit
 
 testing revert now 
+
+bisect testing
+
